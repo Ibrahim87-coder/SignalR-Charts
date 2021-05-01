@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghqBrcxQQcdZxcp0fsckRn3kwNzXhHntMQwTuq2dl0gGXnR0CNbB5agOE/boiB499YOJSTiwrz/DPH9/SySrPQ==",
+  "success": true,
+  "projectFilePath": "D:\\ibrahim\\Programming\\full-stack-developement\\Projets\\.Net-Core\\SignalR-Charts\\WebApi\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pcd\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}

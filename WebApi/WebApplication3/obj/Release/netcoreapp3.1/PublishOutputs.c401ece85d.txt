@@ -1,0 +1,7 @@
+D:\ibrahim\Programming\full-stack-developement\Projets\.Net-Core\SignalR-Charts\WebApi\WebApplication3\bin\Release\netcoreapp3.1\publish\WebApplication3.exe
+D:\ibrahim\Programming\full-stack-developement\Projets\.Net-Core\SignalR-Charts\WebApi\WebApplication3\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+D:\ibrahim\Programming\full-stack-developement\Projets\.Net-Core\SignalR-Charts\WebApi\WebApplication3\bin\Release\netcoreapp3.1\publish\appsettings.json
+D:\ibrahim\Programming\full-stack-developement\Projets\.Net-Core\SignalR-Charts\WebApi\WebApplication3\bin\Release\netcoreapp3.1\publish\WebApplication3.dll
+D:\ibrahim\Programming\full-stack-developement\Projets\.Net-Core\SignalR-Charts\WebApi\WebApplication3\bin\Release\netcoreapp3.1\publish\WebApplication3.deps.json
+D:\ibrahim\Programming\full-stack-developement\Projets\.Net-Core\SignalR-Charts\WebApi\WebApplication3\bin\Release\netcoreapp3.1\publish\WebApplication3.runtimeconfig.json
+D:\ibrahim\Programming\full-stack-developement\Projets\.Net-Core\SignalR-Charts\WebApi\WebApplication3\bin\Release\netcoreapp3.1\publish\WebApplication3.pdb
